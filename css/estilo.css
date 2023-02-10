@@ -1,0 +1,289 @@
+.contenedor_prin{
+    border: 1px solid;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border-radius: 20px;
+    height: 25rem;
+    margin: 5px;
+}
+
+.caja1{
+    height: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+.txt1{
+    border-radius: 12px 0px 0px 0px ;
+    width: 100%;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+
+.fondo{
+    height: 100%;
+    width: 100%;
+    border-radius: 0px 12px 0px 0px;
+    background-color: gray;
+    background: url(/img/concepto-de-geopolítica-o-economía-mundial-figuras-ajedrez-colocadas-en-banner-mapa-215324254.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+    background-color: gray;}
+
+.espacio{
+    border: 1px solid;
+    height: 1.5rem;
+    background-color: black;
+}
+
+.section2{
+    border: 1px solid;
+    height: 30%;
+    background-color: rgb(241, 193, 58);
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    list-style: none;
+    width: 100%;
+}
+li{
+    border-right: 1px solid white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.servicio{
+    border: none;
+}
+
+.hipervinculo1{
+    text-decoration: none;
+    color: white;
+}
+
+.hipervinculo1:hover{
+    color: white;
+}
+
+main{
+    height: 50rem;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin: 5px;
+}
+
+.sect1{
+    border-radius: 20px;
+    width: 30%;   
+
+}
+
+.titu{
+    background-color: black;
+    color: white;
+    height: 5rem;
+    border-radius: 20px 20px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.aside{
+    height: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+
+.cent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boton{
+    background-color: gold;
+    width: 100px;   
+}
+
+.boton:hover{
+    background-color: gray;
+    color: white;
+}
+
+.caja2{
+    border-radius: 0px 0px 20px 20px;
+    height: 28.7rem;
+    background-color: rgb(26, 25, 25);
+   margin-top: 10px;
+}
+
+.txt{
+    font-size: 34px;
+    display: flex;
+    justify-content: center; 
+    margin-top: 20px;
+    border-bottom: 1px solid white;
+}
+
+.txt2{
+    color: rgb(255, 255, 255);
+    font-size: 34px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    border-bottom: 1px solid white;
+}
+
+.txt3{
+    color: rgb(255, 255, 255);
+    font-size: 34px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.hipervinculo2{
+    text-decoration: none;
+    color: gold;
+}
+
+.hipervinculo2:hover{
+    color: gray;
+}
+
+.sect2{
+    width: 100%;
+}
+
+.articulo1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.articulo2{
+    border: 1px solid;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.uuno{
+    border: 1px solid;
+    border-radius: 12px 0px 0px 0px;
+    width: 50%;
+    background-color: rgb(241, 229, 229);
+}
+
+.tituuuno{
+    background-color: black;
+    border-radius: 12px 0px 0px 0px;
+    color: white;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.doss{
+    border: 1px solid;
+    border-radius: 0px 12px 0px 0px;
+    width: 50%;
+    background-color: rgb(241, 229, 229);
+}
+
+.titudoss{
+    background-color: black;
+    border-radius: 0px 12px 0px 0px;
+    color: white;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+
+.trees{
+    border: 1px solid;
+    border-radius: 0px 0px 0px 12px;
+    width: 50%;
+    margin-top: 10px;
+    background-color: rgb(241, 229, 229);
+}
+
+.titutrees{
+    background-color: black;
+    color: white;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.qatro{
+    border: 1px solid;
+    border-radius: 0px 0px 12px 0px;
+    width: 50%;
+    margin-top: 10px;
+    background-color: rgb(241, 229, 229);
+}
+
+.tituqatro{
+    background-color: black;
+    color: white;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.tarje{
+    height: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tamaño{
+    width: 267px;
+    height: 173px;
+}
+
+footer{
+    border: 1px solid;
+    border-radius: 0px 0px 20px 20px;
+    margin: 5px;
+    height: 7rem;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(26, 25, 25);
+}
